@@ -34,15 +34,16 @@
 
 ---
 
+
 ## 📊 Live GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnujChamoli&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujChamoli&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
   <img src="https://streak-stats.demolab.com?user=AnujChamoli&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChamoli&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujChamoli&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -50,9 +51,8 @@
 ## ⚡ Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujChamoli&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujChamoli&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
 ---
 
 ## 🔥 Current Focus
