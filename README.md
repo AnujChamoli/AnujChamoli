@@ -15,23 +15,31 @@
 
 ---
 
-## 🚀 Tech Stack
-
+## 🚀 Tech Arsenal
+ 
+<div align="center">
+ 
 ### 💻 Languages
-- JavaScript | TypeScript | Python | Java
-
-### 🌐 Web Development
-- Next.js | React | Node.js | Express  
-- Prisma | PostgreSQL | MongoDB  
-
+<img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark&perline=8" />
+ 
+### 🌐 Web & Frameworks
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,html,css&theme=dark&perline=8" />
+ 
+### 🗄️ Databases & ORM
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,redis&theme=dark&perline=8" />
+ 
 ### 🧠 AI / ML
-- TensorFlow | PyTorch | Scikit-learn  
-- NLP | Neural Networks  
-
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=flat-square&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-ff6b6b?style=flat-square&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20Integration-AI%20Apps-00d2ff?style=flat-square&logo=OpenAI&logoColor=white" />
+ 
 ### ⚙️ Tools & DevOps
-- Git | GitHub | Docker | Linux  
-- REST APIs | WebSockets  
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark&perline=8" />
+ 
+</div>
+ 
 ---
 ## 📊 Live GitHub Metrics
 
@@ -75,12 +83,19 @@
 
 ---
 
+ 
 ## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
+ 
+<div align="center">
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnujChamoli/AnujChamoli/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnujChamoli/AnujChamoli/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AnujChamoli/AnujChamoli/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+ 
+</div>
+ 
 ---
 
 ## 📫 Connect With Me
